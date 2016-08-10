@@ -5,24 +5,10 @@
 
 A second Encapsulation of AFNetworking!!
 
-## Installation with CocoaPods
+## Installation
 
-CocoaPods is a dependency manager for Objective-C
+Drag the files into your project directly and begin to enjoy it.
 
-### Podfile
-
-```
-source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '7.0'
-
-pod 'CBNetworking', '~> 1.0.2'
-```
-
-Then, **cd** you directory and  run the following command:
-
-```
-$ pod install
-```
 ## Architecture
 
 ### CBNetworkStatus
